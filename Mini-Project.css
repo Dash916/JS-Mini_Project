@@ -1,0 +1,45 @@
+/* div {
+    background-color: pink;
+    height: 200px;
+    width: 400px;
+}
+ul {
+    background-color: blue;
+}
+li{
+    background-color: greenyellow;
+} */
+ /* mini project - Simon Game */
+ body {
+    text-align: center;
+ }
+ .btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid black;
+    border-radius: 16%;
+    margin: 2.5rem;
+ }
+ .btn-container {
+    display: flex;
+    justify-content: center;
+    /* flex-wrap: wrap; */
+ }
+ .red{
+    background-color: #d95980;
+ }
+ .yellow {
+    background-color: #f99b45;
+ }
+ .green {
+    background-color: #63aac0;
+ }
+ .purple {
+    background-color: #819ff9;
+ }
+ .flash {
+    background-color: white;
+ }
+ .userFlash {
+    background-color: green;
+ }
